@@ -1,0 +1,1 @@
+ csvwrite('reaction_rules.csv',modelConsistent.grRules)
